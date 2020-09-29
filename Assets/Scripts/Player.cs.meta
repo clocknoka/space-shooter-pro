@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a724d9bc8e6073f4ab6d3f38842d6d42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 3412929482768610462, guid: 612429fc2cb2feb489098e0f4d0eccb6,
+      type: 3}
+  - _tripleShotPrefab: {fileID: 5765168533171445601, guid: d9e1a59b96eb03a439f78765460cedea,
+      type: 3}
+  - _shieldsVisualizer: {instanceID: 0}
+  - _rightEngine: {instanceID: 0}
+  - _leftEngine: {instanceID: 0}
+  - _laserAudioclip: {fileID: 8300000, guid: 75676f361bdfeaf41a46623e95df3dbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
