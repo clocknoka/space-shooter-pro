@@ -10,4 +10,3 @@ This source code is the complete repository (code, project files and assets) for
 For more information on the Game Developer Certification program visit https://gamedevhq.com/.
 
 Dave González for Deep Six Interactive
-
