@@ -1,5 +1,5 @@
-# space-shooter-pro
-Space Shooter Pro
+# Space Shooter Pro
+2D Game Development
 
 Build your first 2D video game. Discover the foundations of Unity and build a fully featured space shooter, packed with features like power ups, homing missiles, and intense boss battles. 
 
